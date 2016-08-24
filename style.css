@@ -2,6 +2,7 @@ body {
 	font-family: 'Roboto', Serif;
 	background-image: url("background.jpg");
 }
-#branding {
-	padding: 0px 0px 0px 10px
+#brand {
+	max-width: 30px;
+	max-height: 30px;
 }
